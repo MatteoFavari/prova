@@ -17,10 +17,7 @@ public class Prova {
      */
     public static void main(String[] args) {
         System.out.println("Mi piaci come a Gesù piacciono i chiodi");
-        System.out.println("Mporcoddio");
-        System.out.println("Mporcoddio22");
-        System.out.println("Mporcoddio333");
-        Mi sembra che non funzioni un caso 
+      provaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     }
     
 }
